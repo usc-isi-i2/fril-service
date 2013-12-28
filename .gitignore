@@ -1,0 +1,7 @@
+target/
+test-output/
+*.class
+*.csv
+config.xml
+b.xml
+*.log
