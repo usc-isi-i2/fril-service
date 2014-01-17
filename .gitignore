@@ -1,6 +1,9 @@
+#Java_Maven
 target/
 test-output/
 *.class
+
+#Fril
 *.csv
 config.xml
 b.xml
@@ -9,4 +12,8 @@ FrilConfig/
 FrilResults/
 FrilUtility/
 logs/
+
+#Eclipse
 .classpath
+.project
+.settings/
